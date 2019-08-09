@@ -8,5 +8,5 @@ if c!=0:
     else:
         print("no")
 else:
-    print("no")
+    print("yes")
 
