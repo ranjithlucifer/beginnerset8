@@ -7,4 +7,6 @@ if c!=0:
         print("yes")
     else:
         print("no")
+else:
+    print("no")
 
