@@ -1,2 +1,3 @@
 nah=float(input())
-print(round(nah))
+f=int(nah)
+print(f+1)
